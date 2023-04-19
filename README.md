@@ -23,5 +23,5 @@ Compressed or non-compressed VCF files as input
 
 Survived variants present in VCF format and Tab-separated format
 
-123VCF puts the same BED feature variants when the user define a BED filter next to each other in a TSV file to detect possible compound heterozygous variants
+123VCF puts the same BED feature variants when the user defines a BED filter next to each other in a TSV file to detect possible compound heterozygous variants
 
